@@ -28,6 +28,18 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 6. **Have Fun**: Enjoy the process of contributing and learning along the way!
 
 Thank you for participating in Hacktoberfest 2024!
+# Contributing to the repository
+we have a detailed readme explaning how to submit your pull request. Please avoid spam PR and make sure you are submitting meaningful code. Key points to note is: 
+- No Spamming
+- No useless code
+- No plagarism
+- Keep everything authentic 
+- Have the Opensource Spirit
+
+complete details can about contributing can be found in [CONTRIBUTING.md](https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/CONTRIBUTING.md)
+
+# Code of Conduct
+We as members of MLSA UET peshawar want to keep everything fair, in order and respectful. Please review the code of conduct at [CODE_OF_CONDUCT.md](https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/CODE_OF_CONDUCT.md) 
 
 
 ## Getting Started 🤩🤗:
