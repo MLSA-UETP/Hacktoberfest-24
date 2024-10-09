@@ -1,0 +1,208 @@
+
+<html>
+<head>
+    <title>Small Business Homepage</title>
+    <link rel="stylesheet" href="style.css">
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #005f73;
+    color: white;
+    padding: 15px 0;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#hero {
+    background-image: url('https://i.imgur.com/oXrLmSl.jpg'); /* Add your image path */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.hero-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ee6c4d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.hero-button:hover {
+    background-color: #d64b2a;
+}
+
+footer {
+    background-color: #005f73;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Existing CSS remains the same */
+
+/* Styling for Services Section */
+#services {
+    background-color: #fff;
+    padding: 20px;
+    text-align: left;
+}
+
+#services h2 {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+#services ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+#services li {
+    margin-bottom: 10px;
+}
+
+/* Styling for About Section */
+#about {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: left;
+}
+
+#about h2 {
+    color: #28a745;
+    margin-bottom: 15px;
+}
+
+/* Styling for Contact Section */
+#contact {
+    background-color: #fff;
+    padding: 20px;
+    text-align: left;
+}
+
+#contact h2 {
+    color: #dc3545;
+    margin-bottom: 15px;
+}
+
+#contact p {
+    margin-bottom: 10px;
+}
+
+/* Hover Effects */
+#services li:hover,
+#contact p:hover {
+    color: #0056b3;
+    cursor: pointer;
+}
+
+/* Responsive Design Adjustments */
+@media screen and (max-width: 768px) {
+    #services, #about, #contact {
+        text-align: center;
+    }
+
+    #services ul {
+        list-style-type: none;
+        padding: 0;
+    }
+}
+</style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Our Business Name</h1>
+            <nav>
+                <ul>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <h2>Welcome to Our Business</h2>
+            <p>Your one-stop solution for all your needs.</p>
+            <a href="#contact" class="hero-button">Get in Touch</a>
+        </div>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>We offer a wide range of services to help your business grow:</p>
+        <ul>
+            <li>Consulting Services</li>
+            <li>Professional Training</li>
+            <li>Marketing and Advertising Solutions</li>
+            <!-- More services can be listed here -->
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a dedicated team with over 10 years of experience in business development and management. Our mission is to provide high-quality services tailored to each client's unique needs.</p>
+        <!-- More about the business -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: (123) 456-7890</p>
+        <p>Email: contact@ourbusiness.com</p>
+        <!-- Additional contact details or a contact form -->
+    </section>
+
+    <footer>
+        <p>© 2023 Small Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>
