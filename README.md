@@ -13,14 +13,22 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 - [How to pull request [Overview]](https://opensource.guide/how-to-contribute/)
 
 
-# Contribution Rules📚:
+# Contribution Guidelines 📚
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
-<!-- - Add your name to the contributorsList file. -->
-- Try to keep pull requests small to minimize merge conflicts
+1. **Be Creative**: We encourage innovative ideas! Feel free to experiment and think outside the box.
+  
+2. **No Build Steps**: Please avoid adding any build processes (e.g., `npm install`). We want to keep this a simple static site.
+
+3. **Respect Existing Content**: Ensure that you don’t remove or alter existing content without discussing it first.
+
+4. **Functionality First**: Your contributions can be styled in any way you choose—just make sure they work!
+
+5. **Small Pull Requests**: Keep your pull requests focused and concise to minimize potential merge conflicts.
+
+6. **Have Fun**: Enjoy the process of contributing and learning along the way!
+
+Thank you for participating in Hacktoberfest 2024!
+
 
 ## Getting Started 🤩🤗:
 
