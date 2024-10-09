@@ -24,11 +24,6 @@ Anyone found not living up to the hacktoberfest spirit and violating the rules w
 ```terminal
 git clone https://github.com/MLSA-UETP/HacktoberFest-22
 ```
-- Navigate to project directory.
-
-```terminal
-cd HacktoberFest-22
-```
 
 - Create a new Branch
 
