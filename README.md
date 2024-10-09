@@ -36,7 +36,7 @@ we have a detailed readme explaning how to submit your pull request. Please avoi
 - Keep everything authentic 
 - Have the Opensource Spirit
 
-complete details can about contributing can be found in [CONTRIBUTING.md](https://github.com/MLSA-UETP/HacktoberFest-22/blob/main/CONTRIBUTING.md)
+complete details can about contributing can be found in [CONTRIBUTING.md](https://github.com/MLSA-UETP/Hacktoberfest-24/blob/main/CONTRIBUTING.md)
 
 # Code of Conduct
 We as members of MLSA UET peshawar want to keep everything fair, in order and respectful. Please review the code of conduct at [CODE_OF_CONDUCT.md](https://github.com/MLSA-UETP/Hacktoberfest-24/blob/main/CODE_OF_CONDUCT.md) 
