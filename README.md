@@ -44,6 +44,28 @@ complete details can about contributing can be found in [CONTRIBUTING.md](https:
 # Code of Conduct
 We as members of MLSA UET peshawar want to keep everything fair, in order and respectful. Please review the code of conduct at [CODE_OF_CONDUCT.md](https://github.com/MLSA-UETP/Hacktoberfest-24/blob/main/CODE_OF_CONDUCT.md) 
 
+## Contributors ✨
+
+Thanks to these amazing people for contributing to this repository:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hassamkhan1"><img src="https://avatars.githubusercontent.com/u/139095933?v=4?s=100" width="100px;" alt="hassamkhan1"/><br /><sub><b>hassamkhan1</b></sub></a><br /><a href="#tutorial-hassamkhan1" title="Tutorials">✅</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 
 ## Getting Started 🤩🤗:
 
@@ -99,24 +121,3 @@ You will receive a notification in your Hacktoberfest profile on the Hacktoberfe
 ## Why isn’t there a t-shirt this year?
 As Hacktoberfest has grown, so have the logistical challenges associated with creating a reward. Unfortunately, it’s no longer feasible for us to provide a free t-shirt. Nevertheless, we still want participants to have a memorable experience and receive a special memento marking their participation and the year. Instead of a t-shirt reward, we’re partnering with Holopin to provide a digital badge to each participant, making global delivery much simpler. We believe this shift will allow Hacktoberfest to continue supporting and raising awareness for open-source projects worldwide for years to come.
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hassamkhan1"><img src="https://avatars.githubusercontent.com/u/139095933?v=4?s=100" width="100px;" alt="hassamkhan1"/><br /><sub><b>hassamkhan1</b></sub></a><br /><a href="#tutorial-hassamkhan1" title="Tutorials">✅</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
