@@ -54,10 +54,11 @@ Thanks to these amazing people for contributing to this repository:
 <table>
   <tbody>
     <tr>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/niharfiza125"><img src="https://avatars.githubusercontent.com/u/176830976?v=4?s=100" width="100px;" alt="Fiza Nihar"/><br /><sub><b>Fiza Nihar</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=niharfiza125" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hassamkhan1"><img src="https://avatars.githubusercontent.com/u/139095933?v=4?s=100" width="100px;" alt="hassamkhan1"/><br /><sub><b>hassamkhan1</b></sub></a><br /><a href="#tutorial-hassamkhan1" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.upwork.com/freelancers/~011fe6ce84d3da23e7"><img src="https://avatars.githubusercontent.com/u/101595985?v=4?s=100" width="100px;" alt="Awais Saddiqui"/><br /><sub><b>Awais Saddiqui</b></sub></a><br /><a href="#ideas-awaissaddiqui" title="Ideas, Planning, & Feedback">🤔</a></td>
 
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niharfiza125"><img src="https://avatars.githubusercontent.com/u/176830976?v=4?s=100" width="100px;" alt="Fiza Nihar"/><br /><sub><b>Fiza Nihar</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=niharfiza125" title="Code">💻</a></td>
+     
 
     </tr>
   </tbody>
