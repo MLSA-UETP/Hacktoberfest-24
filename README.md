@@ -1,4 +1,7 @@
 # Hacktoberfest-2024
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jcb950lehsmovb2vkqd.png" alt="hacktoberfest 2024" />
 
 ## Submit your PR on this new repo [Hacktoberfest](https://github.com/MLSA-UETP/HacktoberFest-24). We are merging all PRs there.
@@ -95,3 +98,25 @@ You will receive a notification in your Hacktoberfest profile on the Hacktoberfe
 
 ## Why isn’t there a t-shirt this year?
 As Hacktoberfest has grown, so have the logistical challenges associated with creating a reward. Unfortunately, it’s no longer feasible for us to provide a free t-shirt. Nevertheless, we still want participants to have a memorable experience and receive a special memento marking their participation and the year. Instead of a t-shirt reward, we’re partnering with Holopin to provide a digital badge to each participant, making global delivery much simpler. We believe this shift will allow Hacktoberfest to continue supporting and raising awareness for open-source projects worldwide for years to come.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hassamkhan1"><img src="https://avatars.githubusercontent.com/u/139095933?v=4?s=100" width="100px;" alt="hassamkhan1"/><br /><sub><b>hassamkhan1</b></sub></a><br /><a href="#tutorial-hassamkhan1" title="Tutorials">✅</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
