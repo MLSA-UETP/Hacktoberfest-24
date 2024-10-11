@@ -1,6 +1,6 @@
 # Hacktoberfest-2024
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jcb950lehsmovb2vkqd.png" alt="hacktoberfest 2024" />
 
@@ -55,6 +55,7 @@ Thanks to these amazing people for contributing to this repository:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hassamkhan1"><img src="https://avatars.githubusercontent.com/u/139095933?v=4?s=100" width="100px;" alt="hassamkhan1"/><br /><sub><b>hassamkhan1</b></sub></a><br /><a href="#tutorial-hassamkhan1" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niharfiza125"><img src="https://avatars.githubusercontent.com/u/176830976?v=4?s=100" width="100px;" alt="Fiza Nihar"/><br /><sub><b>Fiza Nihar</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=niharfiza125" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
