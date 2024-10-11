@@ -1,3 +1,20 @@
+## Contributors ✨
+
+Thanks to these amazing people for contributing to this repository ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/username1"><img src="https://avatars.githubusercontent.com/username1?v=4" width="100px;" alt=""/><br /><sub><b>Username1</b></sub></a><br /><a href="https://github.com/username1" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/username2"><img src="https://avatars.githubusercontent.com/username2?v=4" width="100px;" alt=""/><br /><sub><b>Username2</b></sub></a><br /><a href="https://github.com/username2" title="Code">💻</a></td>
+    <!-- Add more contributors similarly -->
+  </tr>
+</table>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 # Hacktoberfest-2024
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jcb950lehsmovb2vkqd.png" alt="hacktoberfest 2024" />
 
