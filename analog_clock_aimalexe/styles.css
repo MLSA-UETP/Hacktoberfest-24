@@ -1,0 +1,115 @@
+/* Reset default styles */
+* {
+    box-sizing: border-box;
+}
+
+/* Ensure the body covers the full height of the screen */
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #5cb59d;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main container will fill the available space */
+.clock-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1; /* Makes the clock-container grow to take available space */
+}
+
+.clock {
+    background-color: #2fe4b3;
+    position: relative;
+    width: 220px;
+    aspect-ratio: 1/1;
+    border: 8px solid white;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+}
+
+.hand {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform-origin: bottom;
+    transform: translateX(-50%) rotate(90deg);
+    background-color: white;
+}
+
+.hour {
+    width: 6px;
+    height: 50px;
+    border-radius: 6px;
+}
+
+.minute {
+    width: 4px;
+    height: 70px;
+    border-radius: 4px;
+}
+
+.second {
+    width: 2px;
+    height: 90px;
+    border-radius: 2px;
+    background-color: red;
+}
+
+.center {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.date {
+    margin-top: 1rem;
+    color: white;
+    font-size: 1.2em;
+    border-bottom: 2px solid #2fe4b3;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #343a40;
+    color: #fff;
+    margin-top: auto; /* Footer sticks to the bottom */
+    width: 100%;
+}
+
+footer .social-links {
+    margin-top: 10px;
+}
+
+footer .social-links a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+footer .social-links a:hover {
+    color: #adb5bd;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .clock {
+        width: 180px;
+    }
+
+    .date {
+        font-size: 1em;
+    }
+}
