@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure the body covers the full height of the screen */
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main container will fill the available space */
+.container {
+    max-width: 500px;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Flex-grow ensures the container fills the space */
+.container {
+    flex-grow: 1;
+}
+
+/* Footer sticks to the bottom */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #343a40;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+    margin-top: auto;
+    width: 100%;
+}
+
+/* Social links in the footer */
+footer .social-links {
+    margin-top: 10px;
+}
+
+footer .social-links a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+footer .social-links a:hover {
+    color: #adb5bd;
+}
+
+/* Input group */
+.input-group {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#todo-input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+}
+
+#add-btn {
+    padding: 10px;
+    background: #28a745;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+}
+
+#add-btn:hover {
+    background: #218838;
+}
+
+/* To-do list */
+#todo-list {
+    list-style: none;
+}
+
+#todo-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #e9ecef;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+#todo-list li.completed span {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+#todo-list li span {
+    flex: 1;
+}
+
+.actions i {
+    margin-left: 10px;
+    cursor: pointer;
+    color: #495057;
+}
+
+.actions i:hover {
+    color: #212529;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        margin: 20px;
+        padding: 15px;
+    }
+
+    #todo-input {
+        font-size: 14px;
+    }
+
+    #add-btn {
+        font-size: 16px;
+    }
+}
+
+
+</style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>To-Do List</h1>
+        <div class="input-group">
+            <input type="text" id="todo-input" placeholder="Add a new task...">
+            <button id="add-btn"><i class="fas fa-plus"></i></button>
+        </div>
+        <ul id="todo-list"></ul>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 aimalexe</p>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/aimalexe" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/aimalexe" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://aimal.pk" target="_blank"><i class="fas fa-globe"></i></a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
