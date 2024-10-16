@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password/Pin Generator</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+</head>
+<body>
+    <div class="generator-container">
+        <h1>Password/Pin Generator</h1>
+
+        <!-- Form to get user inputs -->
+        <div class="form-group">
+            <label for="type">Select Type:</label>
+            <select id="type">
+                <option value="password">Password</option>
+                <option value="pin">PIN</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="min-length">Min Length:</label>
+            <input type="number" id="min-length" min="4" value="4">
+        </div>
+
+        <div class="form-group">
+            <label for="max-length">Max Length:</label>
+            <input type="number" id="max-length" min="4" value="8">
+        </div>
+
+        <!-- Password options, visible only when password is selected -->
+        <div id="password-options" class="form-group">
+            <label>Select Character Options:</label>
+            <div>
+                <input type="checkbox" id="include-letters" checked> Letters (A-Z, a-z)
+            </div>
+            <div>
+                <input type="checkbox" id="include-numbers" checked> Numbers (0-9)
+            </div>
+            <div>
+                <input type="checkbox" id="include-symbols"> Special Characters (@, #, $, etc.)
+            </div>
+        </div>
+
+        <!-- Generate button -->
+        <button id="generate-btn" class="generate-btn">Generate</button>
+
+        <!-- Result display -->
+        <div class="result">
+            <label for="result">Generated Password/Pin:</label>
+            <textarea id="result" readonly></textarea>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 aimalexe</p>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/aimalexe" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/aimalexe" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://aimal.pk" target="_blank"><i class="fas fa-globe"></i></a>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
