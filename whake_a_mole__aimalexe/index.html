@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whack-a-Mole Game</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="game-container">
+        <h1>Whack-a-Mole!</h1>
+        <div class="scoreboard">
+            <p>Score: <span id="score">0</span></p>
+            <p>Time Left: <span id="time-left">30</span>s</p>
+        </div>
+
+        <div class="grid">
+            <div class="hole" id="hole1"></div>
+            <div class="hole" id="hole2"></div>
+            <div class="hole" id="hole3"></div>
+            <div class="hole" id="hole4"></div>
+            <div class="hole" id="hole5"></div>
+            <div class="hole" id="hole6"></div>
+            <div class="hole" id="hole7"></div>
+            <div class="hole" id="hole8"></div>
+            <div class="hole" id="hole9"></div>
+        </div>
+
+        <button id="start-button" class="start-btn">Start Game</button>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 aimalexe</p>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/aimalexe" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/aimalexe" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://aimal.pk" target="_blank"><i class="fas fa-globe"></i></a>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>

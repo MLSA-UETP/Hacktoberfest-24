@@ -1,0 +1,116 @@
+/* Reset default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Ensure the body covers the full height of the screen */
+html, body {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main container takes up available space */
+.game-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #343a40;
+}
+
+/* Scoreboard */
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 20px;
+}
+
+.hole {
+    width: 100px;
+    height: 100px;
+    background-color: #28a745;
+    border-radius: 50%;
+    position: relative;
+}
+
+.hole.active {
+    background-color: #ff6347; /* Red color when mole appears */
+}
+
+/* Start Button */
+.start-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #28a745;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.start-btn:hover {
+    background-color: #218838;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #343a40;
+    color: #fff;
+    width: 100%;
+    margin-top: auto;
+}
+
+footer .social-links {
+    margin-top: 10px;
+}
+
+footer .social-links a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+footer .social-links a:hover {
+    color: #adb5bd;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .grid {
+        grid-template-columns: repeat(3, 80px);
+        grid-gap: 15px;
+    }
+
+    .hole {
+        width: 80px;
+        height: 80px;
+    }
+
+    .start-btn {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+    }
+}
