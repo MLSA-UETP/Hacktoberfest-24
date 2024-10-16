@@ -1,0 +1,15 @@
+
+.myFlex {
+     display: flex;
+     width: 100vw;
+     height: 50px;
+     background-color: blue;
+     justify-content: space-evenly;
+     align-items: center;
+     flex-direction: column;
+} 
+.flexChild {
+    width: 20px;
+    height: 40px;
+    background-color: red;
+}
