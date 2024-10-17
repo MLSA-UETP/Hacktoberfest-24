@@ -15,6 +15,17 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 - [Hacktoberfest Intro](https://www.youtube.com/watch?v=LpTXT54USjI)
 - [How to pull request [Overview]](https://opensource.guide/how-to-contribute/)
 
+# ⚠️ Important: Contribute to Relevant Folders Only
+
+**Please Note:** Only add or contribute to the **relevant folder** for your project or documentation. Contributions made to the incorrect folder **will not be accepted**. 
+
+Make sure to follow the project structure carefully to ensure that your pull request is considered for Hacktoberfest!
+
+- Java projects go in the `Java` folder.
+- Python scripts belong in the `Python` folder.
+- Documentation goes in the `Docs` folder.
+
+⚠️ **PRs that do not follow this structure will be rejected.**
 
 # Contribution Guidelines 📚
 
@@ -31,6 +42,7 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 6. **Have Fun**: Enjoy the process of contributing and learning along the way!
 
 Thank you for participating in Hacktoberfest 2024!
+
 # Contributing to the repository
 we have a detailed readme explaning how to submit your pull request. Please avoid spam PR and make sure you are submitting meaningful code. Key points to note is: 
 - No Spamming
