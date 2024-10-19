@@ -1,5 +1,3 @@
-// Java program to 
-// convert vector to List 
 
 import java.util.*; 
 
@@ -7,10 +5,8 @@ public class GFG {
 	public static void main(String[] args) 
 	{ 
 
-		// Create a Vector of String elements 
 		Vector<String> vec = new Vector<String>(); 
 
-		// Adding values of Vector 
 		vec.add("1"); 
 		vec.add("2"); 
 		vec.add("3"); 
