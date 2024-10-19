@@ -1,6 +1,6 @@
 # Hacktoberfest-2024
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1jcb950lehsmovb2vkqd.png" alt="hacktoberfest 2024" />
 
@@ -73,6 +73,9 @@ Thanks to these amazing people for contributing to this repository:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RohanSingh0208"><img src="https://avatars.githubusercontent.com/u/179429466?v=4?s=100" width="100px;" alt="RohanSingh0208"/><br /><sub><b>RohanSingh0208</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=RohanSingh0208" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Muhsin95952"><img src="https://avatars.githubusercontent.com/u/111670341?v=4?s=100" width="100px;" alt="Muhsin Shah"/><br /><sub><b>Muhsin Shah</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=Muhsin95952" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dvir019"><img src="https://avatars.githubusercontent.com/u/30556126?v=4?s=100" width="100px;" alt="dvir019"/><br /><sub><b>dvir019</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=dvir019" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/m-umarjan11"><img src="https://avatars.githubusercontent.com/u/104164416?v=4?s=100" width="100px;" alt="Muhammad Umar Jan"/><br /><sub><b>Muhammad Umar Jan</b></sub></a><br /><a href="https://github.com/MLSA-UETP/Hacktoberfest-24/commits?author=m-umarjan11" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
